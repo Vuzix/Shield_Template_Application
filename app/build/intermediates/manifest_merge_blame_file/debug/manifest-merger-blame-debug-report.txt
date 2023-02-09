@@ -1,0 +1,101 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.vuzix.sample.shieldsampleapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+8-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:5:5-47:19
+12        android:name="com.vuzix.sample.shieldsampleapp.ShieldSampleApplication"
+12-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:6:9-48
+13        android:allowBackup="true"
+13-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:7:9-35
+14        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+14-->[androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+15        android:debuggable="true"
+16        android:extractNativeLibs="false"
+17        android:icon="@mipmap/ic_launcher"
+17-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:8:9-43
+18        android:label="@string/app_name"
+18-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:9:9-41
+19        android:roundIcon="@mipmap/ic_launcher_round"
+19-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:10:9-54
+20        android:supportsRtl="true"
+20-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:11:9-35
+21        android:theme="@style/Theme.ShieldSampleApp" >
+21-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:12:9-53
+22        <receiver
+22-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:13:9-27:20
+23            android:name="com.vuzix.sample.shieldsampleapp.sample_widget"
+23-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:14:13-42
+24            android:exported="true" >
+24-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:15:13-36
+25            <intent-filter>
+25-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:16:13-18:29
+26                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+26-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:17:17-84
+26-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:17:25-81
+27            </intent-filter>
+28
+29            <meta-data
+29-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:20:13-22:62
+30                android:name="android.appwidget.provider"
+30-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:21:17-58
+31                android:resource="@xml/sample_widget_info" />
+31-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:22:17-59
+32            <meta-data
+32-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:23:13-26:19
+33                android:name="com.vuzix.launcher.widget"
+33-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:24:17-57
+34                android:value="com.vuzix.sample.shieldsampleapp.MainActivity" />
+34-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:25:17-78
+35        </receiver>
+36        <receiver
+36-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:28:9-35:20
+37            android:name="com.vuzix.sample.shieldsampleapp.dynamic_theme_receiver"
+37-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:29:13-51
+38            android:enabled="true"
+38-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:30:13-35
+39            android:exported="true" >
+39-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:31:13-36
+40            <intent-filter>
+40-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:32:13-34:29
+41                <action android:name="com.vuzix.intent.action.UI_DISPLAY_MODE" />
+41-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:33:17-82
+41-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:33:25-79
+42            </intent-filter>
+43        </receiver>
+44
+45        <activity
+45-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:37:9-46:20
+46            android:name="com.vuzix.sample.shieldsampleapp.MainActivity"
+46-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:38:13-41
+47            android:exported="true" >
+47-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:39:13-36
+48            <intent-filter>
+48-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:40:13-44:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:41:17-69
+49-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:41:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:43:17-77
+51-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:43:27-74
+52            </intent-filter>
+53
+54            <meta-data
+54-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:13-82
+55                android:name="com.vuzix.icon.tint"
+55-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:24-58
+56                android:value="true" />
+56-->C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:59-79
+57        </activity>
+58    </application>
+59
+60</manifest>

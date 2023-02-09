@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.vuzix.sample.shieldsampleapp">
+
+    <application
+        android:name=".ShieldSampleApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.ShieldSampleApp">
+        <receiver
+            android:name=".sample_widget"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+            </intent-filter>
+
+            <meta-data
+                android:name="android.appwidget.provider"
+                android:resource="@xml/sample_widget_info" />
+            <meta-data
+                android:name="com.vuzix.launcher.widget"
+                android:value="com.vuzix.sample.shieldsampleapp.MainActivity"
+                />
+        </receiver>
+        <receiver
+            android:name=".dynamic_theme_receiver"
+            android:enabled="true"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="com.vuzix.intent.action.UI_DISPLAY_MODE" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="com.vuzix.icon.tint" android:value="true" />
+        </activity>
+    </application>
+
+</manifest>

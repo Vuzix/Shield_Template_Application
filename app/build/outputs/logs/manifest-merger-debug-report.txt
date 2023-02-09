@@ -1,0 +1,208 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab2c8578846834d46bf696793da34c88\transformed\viewbinding-4.2.2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\980f29f0f10205b4b3342f76ceaf78c4\transformed\hud-resources-1.8.0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0d2da46692c0a962d8d95679ae836805\transformed\material-1.2.0-alpha03\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1cd632fed91047f864aa5fc02240525c\transformed\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ef9635337d7f9169c0128d93e7fb9b5a\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d4db00980deb1dc0f112ee5edaa209fc\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b632ba35fc3ce7ef2fe1af80f1c54dc1\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+	package
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:1-49:12
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:5:5-47:19
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0d2da46692c0a962d8d95679ae836805\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0d2da46692c0a962d8d95679ae836805\transformed\material-1.2.0-alpha03\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d4db00980deb1dc0f112ee5edaa209fc\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d4db00980deb1dc0f112ee5edaa209fc\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:10:9-54
+	android:icon
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:12:9-53
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:6:9-48
+receiver#com.vuzix.sample.shieldsampleapp.sample_widget
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:13:9-27:20
+	android:exported
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:15:13-36
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:14:13-42
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:16:13-18:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:17:17-84
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:17:25-81
+meta-data#android.appwidget.provider
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:20:13-22:62
+	android:resource
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:22:17-59
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:21:17-58
+meta-data#com.vuzix.launcher.widget
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:23:13-26:19
+	android:value
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:25:17-78
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:24:17-57
+receiver#com.vuzix.sample.shieldsampleapp.dynamic_theme_receiver
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:enabled
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:29:13-51
+intent-filter#action:name:com.vuzix.intent.action.UI_DISPLAY_MODE
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:32:13-34:29
+action#com.vuzix.intent.action.UI_DISPLAY_MODE
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:33:17-82
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:33:25-79
+activity#com.vuzix.sample.shieldsampleapp.MainActivity
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:37:9-46:20
+	android:exported
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:38:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:40:13-44:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:41:17-69
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:41:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:43:17-77
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:43:27-74
+meta-data#com.vuzix.icon.tint
+ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:13-82
+	android:value
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:59-79
+	android:name
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml:45:24-58
+uses-sdk
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab2c8578846834d46bf696793da34c88\transformed\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.2.2] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab2c8578846834d46bf696793da34c88\transformed\viewbinding-4.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\980f29f0f10205b4b3342f76ceaf78c4\transformed\hud-resources-1.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.vuzix:hud-resources:1.8.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\980f29f0f10205b4b3342f76ceaf78c4\transformed\hud-resources-1.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0d2da46692c0a962d8d95679ae836805\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.0-alpha03] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0d2da46692c0a962d8d95679ae836805\transformed\material-1.2.0-alpha03\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1cd632fed91047f864aa5fc02240525c\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1cd632fed91047f864aa5fc02240525c\transformed\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\378f8d1f5d9e8f2dccf5622b520d15a5\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\9b6cc75e89d4038448f147e4b5cd437c\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7405f0ccd256d79609480792c9e36ea6\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ef9635337d7f9169c0128d93e7fb9b5a\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ef9635337d7f9169c0128d93e7fb9b5a\transformed\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f272c83ce99c65a36b1ec4addef4bce9\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e1c3d84f7e10301771a694b3f57c324a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\0723fe7ecd4c2478c3e1bb5dcd2061ba\transformed\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1c278cf285a450c0856d968d270e5efb\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e987749f63068a1794847e2301a47d83\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\70151c5920c4591167abb899c9f7dabf\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\1e883fcca4be0e4894b79c7ad7799303\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e5adcc27df50a79beaff0d901fa0f09e\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\49fa8ed03dbf63e3c512395961f08f85\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\a8f82ec6df6d74f02579b73b471563fb\transformed\activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\bab16d82e4ecd6e42bf238eb5dba6873\transformed\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\c9db1d01625fa279f6f54b47d71dc4f6\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d4db00980deb1dc0f112ee5edaa209fc\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\d4db00980deb1dc0f112ee5edaa209fc\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\f49b78dbffcb25c653a9272c5a4b37ce\transformed\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\7d26d4d81ad468097d02c6ee09ec89bb\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8b121b5d984b51c1f4f09cfda50daec3\transformed\savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\ab7c085cac4d28c8303515c95cb9326f\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\5f607d66b3fe72aa1e03275c59c21e0e\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\8df7ce37fa44672fa66846dec29b275f\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\e7a4759f557659e6ca6ff74b759c4e18\transformed\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b632ba35fc3ce7ef2fe1af80f1c54dc1\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\brody_wood\gradle-1.9\caches\transforms-3\b632ba35fc3ce7ef2fe1af80f1c54dc1\transformed\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\brody_wood\Documents\Shield Sample Apps\ShieldSampleApp\app\src\main\AndroidManifest.xml
